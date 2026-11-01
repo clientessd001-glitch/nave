@@ -1,0 +1,6 @@
+{
+  "name": "Veloce — Navegador Minimalista & Seguro",
+  "description": "Navegador de internet rápido, leve e focado em segurança de dados, com suporte a abas, modo anônimo, AdBlocker integrado, economia de dados, sincronização criptografada de favoritos e arquitetura nativa em Kotlin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
